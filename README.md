@@ -11,3 +11,6 @@ nltk
 KoNLpy (For processing Korean language)
 
 (Use: pip install nltk in cmd) 
+
+For nltk py package, please enter the following command:
+nltk.download('punkt')
